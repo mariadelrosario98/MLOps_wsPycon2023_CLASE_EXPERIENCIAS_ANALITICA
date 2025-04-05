@@ -2,7 +2,7 @@ import torch
 import torchvision
 from torch.utils.data import TensorDataset
 
-#testing
+#testing.
 import os
 import argparse
 import wandb
